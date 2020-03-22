@@ -9,6 +9,11 @@ Today I am a data scientist in Australia's largest financial institute and have 
 - Lead in development of a series of personalisation capabilities for Australia's no. 1 banking app
 - Lead in development and delivery of the bank's next-gen modelling feature store on our hadoop platform
 
+I am very grateful to have had opportunities to not only have worked in multiple industries but also across the spectrum of data science work spanning over data engineering, developing modelling tools, predictive modelling, insight analytics and more. As a result I am proficient in a range languages, tools and platforms including:
+- R, Python, SQL (MS SQL, Teradata, Oracle, Hive), YAML
+- Linux, Git, Bash
+- Machine learning, neural networks
+
 ---
 
 ### Education
@@ -46,11 +51,14 @@ My personal achievements at this role:
 
 #### Data Management Officer
 ##### University of Sydney (September 2017 - March 2018)
+- In team promotion within 6 months
+- Project management and delivery lead for the enterprise data management project to improve the quality of research data across the University
 
 ---
 
 #### Application and Data Support Officer
 ##### University of Sydney (September 2017 - March 2018)
+- Perform data validation and cleansing activities daily through scripting on enterprise systems
 
 ---
 
@@ -58,6 +66,9 @@ My personal achievements at this role:
 
 #### Data Scientist
 ##### The Smith Family (August 2019 - Present)
+- I helped The Smith Family build up a streamlined process to mine and process their data into a modelling dataset, and built a propensity model to predict the likelihood of one time donors converting to regular givers. The model will be used to optimise their marketing campaigns.
+
+---
 
 #### Data Scientist
 ##### BusinessOne Group (August 2017 - April 2018)
