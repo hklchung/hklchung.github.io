@@ -11,8 +11,15 @@ Today I am a data scientist in Australia's largest financial institute and have 
 
 I am very grateful to have had opportunities to not only have worked in multiple industries but also across the spectrum of data science work spanning over data engineering, developing modelling tools, predictive modelling, insight analytics and more. As a result I am proficient in a range languages, tools and platforms including:
 - R, Python, SQL (MS SQL, Teradata, Oracle, Hive), YAML
-- Linux, Git, Bash
-- Machine learning, neural networks
+- Linux (Ubuntu, Debian, Raspbian), Git, Bash
+- Machine learning (Supervised, Unsupervised), Neural Networks (vanilla)
+- Tableau, PowerBI
+
+Currently I am developing skills in the following:
+- C/C++
+- AWS, GCP
+- Python Django (web development)
+- Neural Networks (Generative Adversarial Networks)
 
 ---
 
