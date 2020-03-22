@@ -1,4 +1,4 @@
-## Portfolio
+## About Me
 
 I am an experienced data scientist with 6 years of experience working across multiple industries including health, higher education, marketing and banking sectors. My journey of data science began when I was a medical research student, where I enjoyed a highly successful 3-year stint as a master and PhD candidate contributing to the fields of microbiology, immunology and genomics with 5 publications amassing thousands of views and citations of my work by research publications and medical textbooks across the globe. During which time, I also supported trans-continental epidemiology studies of various hepatic diseases and clinical trials of novel medicine in Concord Hospital with my exceptional data analytics skills which enabled me to stand out from the rest of my peers in the field.
 
@@ -33,11 +33,7 @@ Currently I am developing skills in the following:
 - [Research Publication 4](https://www.ncbi.nlm.nih.gov/pubmed/25657299)
 - [Thesis](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_45201&context=L)
 
----
-
 ##### Graduate Diploma (Research), Medical Immunology and Microbiology (2014-2015)
-
----
 
 ##### Bachelor of Medical Science, Pharmacology and Cancer Pathology (2010-2013)
 
@@ -64,8 +60,14 @@ My personal achievements at this role:
 ---
 
 #### Application and Data Support Officer
-##### University of Sydney (September 2017 - March 2018)
+##### University of Sydney (March 2017 - September 2018)
 - Perform data validation and cleansing activities daily through scripting on enterprise systems
+
+---
+
+#### Clinical Trials Administrative Officer
+##### Concord Repatriation General Hospital (January 2015 - February 2017)
+- Supported a number of epidemiology studies of various hepatic diseases and clinical trials of novel medicine
 
 ---
 
