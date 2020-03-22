@@ -14,8 +14,7 @@ Today I am a data scientist in Australia's largest financial institute and have 
 ### Education
 
 #### University of New South Wales (UNSW)
-Master of Science, Medical Immunology and Microbiology 
-###### 2015-2017
+##### Master of Science, Medical Immunology and Microbiology (2015-2017)
 - [Research Publication 1](https://www.ncbi.nlm.nih.gov/pubmed/29636463)
 - [Research Publication 2](https://www.frontiersin.org/articles/10.3389/fphys.2017.00543/full)
 - [Research Publication 3](https://www.ncbi.nlm.nih.gov/pubmed/27910936)
@@ -23,11 +22,12 @@ Master of Science, Medical Immunology and Microbiology
 - [Thesis](https://www.unsworks.unsw.edu.au/primo-explore/fulldisplay?vid=UNSWORKS&docid=unsworks_45201&context=L)
 
 ---
-Graduate Diploma (Research), Medical Immunology and Microbiology
-###### 2014-2015
+
+##### Graduate Diploma (Research), Medical Immunology and Microbiology (2014-2015)
+
 ---
-Bachelor of Medical Science, Pharmacology and Cancer Pathology
-###### 2010-2013
+
+##### Bachelor of Medical Science, Pharmacology and Cancer Pathology (2010-2013)
 
 ---
 
@@ -44,11 +44,6 @@ My personal achievements at this role:
 
 ---
 
-#### Data Scientist
-##### BusinessOne Group (August 2017 - April 2018)
-
----
-
 #### Data Management Officer
 ##### University of Sydney (September 2017 - March 2018)
 
@@ -56,3 +51,13 @@ My personal achievements at this role:
 
 #### Application and Data Support Officer
 ##### University of Sydney (September 2017 - March 2018)
+
+---
+
+### Other Experience
+
+#### Data Scientist
+##### The Smith Family (August 2019 - Present)
+
+#### Data Scientist
+##### BusinessOne Group (August 2017 - April 2018)
