@@ -1,5 +1,6 @@
 ## About Me
 
+#### Background
 I am an experienced data scientist with 6 years of experience working across multiple industries including health, higher education, marketing and banking sectors. My journey of data science began when I was a medical research student, where I enjoyed a highly successful 3-year stint as a master and PhD candidate contributing to the fields of microbiology, immunology and genomics with 5 publications amassing thousands of views and citations of my work by research publications and medical textbooks across the globe. During which time, I also supported trans-continental epidemiology studies of various hepatic diseases and clinical trials of novel medicine in Concord Hospital with my exceptional data analytics skills which enabled me to stand out from the rest of my peers in the field.
 
 With the above achievements, I successfully attained scholarships to support my PhD studies where my thesis was focused on developing neural network capabilities to analyse bacterial and viral genomes. However, I soon realised the potential machine learning and AI had across multiple industries and along with other personal reasons, decided to head into industry to work as a data scientist.
@@ -10,18 +11,20 @@ Today I am a data scientist in Australia's largest financial institute and have 
 - Lead in development and delivery of the bank's next-gen modelling feature store on our hadoop platform
 - Lead in research and application of Generative Adversarial Networks (GAN)
 
+#### Recognition & Awards
 I have received a number of recognitions for the success of the above projects.
 - Winner of 2019 CBA Data Science Award
 - Winner of 2020 Celent Model Bank Award for Customer Engagement
 - Nominated for 2019 WHICH-50 Best in Automation
 
+#### Key Skills
 I am very grateful to have had opportunities to not only have worked in multiple industries but also across the spectrum of data science work spanning over data engineering, developing modelling tools, predictive modelling, insight analytics and more. As a result I am proficient in a range languages, tools and platforms including:
 - R, Python, SQL (MS SQL, Teradata, Oracle, Hive), YAML
 - Linux (Ubuntu, Debian, Raspbian), Git, Bash
 - Machine learning (Supervised, Unsupervised), Neural Networks
 - Tableau, PowerBI
 
-Currently I am developing skills in the following:
+Currently I am developing skills in the following areas:
 - C/C++
 - AWS, GCP
 - Python Django (web development)
