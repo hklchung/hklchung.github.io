@@ -8,18 +8,24 @@ Today I am a data scientist in Australia's largest financial institute and have 
 - Lead in development and optimisation of the bank's first adaptive modelling framework with a complementary monitoring capability which saved over 37 years of data scientist time to build 200+ predictive models manually and drove an incremental uplift of ~$40M AUD in FY2019
 - Lead in development of a series of personalisation capabilities for Australia's no. 1 banking app
 - Lead in development and delivery of the bank's next-gen modelling feature store on our hadoop platform
+- Lead in research and application of Generative Adversarial Networks (GAN)
+
+I have received a number of recognitions for the success of the above projects.
+- Winner of 2019 CBA Data Science Award
+- Winner of 2020 Celent Model Bank Award for Customer Engagement
+- Nominated for 2019 WHICH-50 Best in Automation
 
 I am very grateful to have had opportunities to not only have worked in multiple industries but also across the spectrum of data science work spanning over data engineering, developing modelling tools, predictive modelling, insight analytics and more. As a result I am proficient in a range languages, tools and platforms including:
 - R, Python, SQL (MS SQL, Teradata, Oracle, Hive), YAML
 - Linux (Ubuntu, Debian, Raspbian), Git, Bash
-- Machine learning (Supervised, Unsupervised), Neural Networks (vanilla)
+- Machine learning (Supervised, Unsupervised), Neural Networks
 - Tableau, PowerBI
 
 Currently I am developing skills in the following:
 - C/C++
 - AWS, GCP
 - Python Django (web development)
-- Neural Networks (Generative Adversarial Networks)
+- Neural Networks
 
 ---
 
