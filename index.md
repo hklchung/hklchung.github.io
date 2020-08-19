@@ -5,7 +5,7 @@ I am an experienced data scientist with 6 years of experience working across mul
 
 With the above achievements, I successfully attained scholarships to support my PhD studies where my thesis was focused on developing neural network capabilities to analyse bacterial and viral genomes. However, I soon realised the potential machine learning and AI had across multiple industries and along with other personal reasons, decided to head into industry to work as a data scientist.
 
-Today I am a data scientist in Australia's largest financial institute and have worked on multiple high profile projects including:
+In the past 2 years, I worked as a data scientist in Australia's largest financial institute and have worked on multiple high profile projects including:
 - Lead in development and optimisation of the bank's first adaptive modelling framework with a complementary monitoring capability which saved over 37 years of data scientist time to build 200+ predictive models manually and drove an incremental uplift of ~$40M AUD in FY2019
 - Lead in development of a series of personalisation capabilities for Australia's no. 1 banking app
 - Lead in development and delivery of the bank's next-gen modelling feature store on our hadoop platform
@@ -19,13 +19,15 @@ I have received a number of recognitions for the success of the above projects.
 
 #### Key Skills
 I am very grateful to have had opportunities to not only have worked in multiple industries but also across the spectrum of data science work spanning over data engineering, developing modelling tools, predictive modelling, insight analytics and more. As a result I am proficient in a range languages, tools and platforms including:
-- R, Python, SQL (MS SQL, Teradata, Oracle, Hive), YAML
+- R, Python, SQL (MS SQL, Teradata, Oracle, Hive/Impala)
 - Linux (Ubuntu, Debian, Raspbian), Git, Bash
 - Machine learning (Supervised, Unsupervised), Neural Networks
 - Tableau, PowerBI
 
 Currently I am developing skills in the following areas:
+- Scala/PySpark
 - C/C++
+- Java, Kotlin
 - AWS, GCP
 - Python Django (web development)
 - Neural Networks
@@ -50,8 +52,15 @@ Currently I am developing skills in the following areas:
 
 ### Work Experience
 
+#### Data Scientist
+##### Data Scientist (May 2020 - Present)
+- Developed a novel methodology to identify social clusters and familial relationships based on call behaviours (CDRs) and mobility patterns
+- Productionisation and deployment of 5G model
+
+---
+
 #### Associate Data Scientist
-##### Commonwealth Bank of Australia (March 2018 - Present)
+##### Commonwealth Bank of Australia (March 2018 - May 2020)
 My personal achievements at this role:
 - Project management and delivery lead for the bank's first modelling feature store built on our big data platform, using spark ETL pipeline loading daily and will grow to hold over 1,000 customer attributes that can be directly consumed by autoML tools for data science and modelling teams across the bank for various modelling projects
 - Deployment and optimisation of a large-scale automated machine learning modelling framework that continuously re-calibrate in real time through customer interactions with over 2 million data points utilised per day across multiple channels on a Next-Best-Action platform. The models are productionised in our Customer Engagement Engine to tailor fit banking products and reward programmes to over 30 million customers. Over 2,100 models were built within days in parallel with comparable performance to models handcrafted by our data scientists that on average take 3 months to build per model.
